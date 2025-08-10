@@ -1,4 +1,4 @@
-// const API_KEY = "5a21753ea1bc4ac30bcbc37a"
+// const API_KEY = 
 // const API_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/latest/USD`
 const form = document.getElementById("form")
 const change = document.getElementById("change")
